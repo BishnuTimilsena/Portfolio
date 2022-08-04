@@ -1,0 +1,32 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;600;700&display=swap");
+
+
+
+body{
+    border-style: ridge;
+    height:500px;
+    width:300px;
+
+    background-color: azure;
+    margin-top: 300;
+    margin-left: 500;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+
+}
+
+.heading{
+     color:blueviolet;
+     font-size: 50px;
+}
+
+
+
+.contact .content {
+
+    font-size: 2rem;
+    
+    padding:1rem 0;
+    font-weight: normal;
+}
